@@ -1,0 +1,12 @@
+{
+  "name": "ai-image-endpoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/generate-image.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
